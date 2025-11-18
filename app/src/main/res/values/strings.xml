@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlquilerVehiculos</string>
+    <string name="selecciona_tipo_vehiculo">Selecciona Tipo de Vehículo</string>
+
+    <string name="ordenar_por_precio">Ordenar por precio</string>
+    <string-array name="user_roles_array">
+        <item>Arrendatario</item>
+        <item>Arrendador</item>
+    </string-array>
+</resources>

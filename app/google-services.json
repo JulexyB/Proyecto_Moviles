@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042827570755",
+    "project_id": "alquilervehiculos-2374b",
+    "storage_bucket": "alquilervehiculos-2374b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042827570755:android:bf4c6a58efe4ae2f0d2ef6",
+        "android_client_info": {
+          "package_name": "com.example.alquilervehiculos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgr2I7UHI8vGkdGrcxWVgo0Rs8onNDdsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
