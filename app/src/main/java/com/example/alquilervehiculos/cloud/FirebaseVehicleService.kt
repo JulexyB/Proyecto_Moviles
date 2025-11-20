@@ -1,0 +1,1 @@
+// Archivo eliminado. La lógica para interactuar con Firebase fue movida a VehiculoRepository.kt

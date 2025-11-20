@@ -1,0 +1,1 @@
+// Archivo eliminado por duplicado. El correcto se encuentra en el paquete 'adapter'.
